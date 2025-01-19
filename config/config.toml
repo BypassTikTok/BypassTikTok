@@ -1,0 +1,15 @@
+[server]
+address = "0.0.0.0"
+port = 8080
+
+[proxy]
+target_url = "https://tiktok.com"
+proxy_ips = ["192.168.1.1", "192.168.1.2", "192.168.1.3"]
+
+[auth]
+enable_auth = true
+tokens = ["token1", "token2", "token3"]
+
+[logging]
+level = "info"
+file = "proxy.log"

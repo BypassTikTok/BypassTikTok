@@ -1,5 +1,7 @@
 # Bypass Tiktok Ban
 
+![tiktok-banner-black-3](https://github.com/user-attachments/assets/4e780bcd-894d-4895-9088-541c74b70043)
+
 Fuck the US government, this server allows you to bypass the tiktok ban. You can run it yourself or use our site.
 
 https://x.com/BypassTikTok

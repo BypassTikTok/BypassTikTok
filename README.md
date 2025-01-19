@@ -2,6 +2,8 @@
 
 Fuck the US government, this server allows you to bypass the tiktok ban. You can run it yourself or use our site.
 
+https://x.com/BypassTikTok
+
 ## Features
 
 - IP rotation for proxying requests
